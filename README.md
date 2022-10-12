@@ -5,3 +5,4 @@ Description: This work contains MATLAB and Python programs based on Statistics a
 Instructions:
 1. Open MATLAB Folder> Bicylce Model: Run the Simulink Model to generate training data for Gaussian Processes 
 2. Save and load the generated data the Generated Data 
+3. Run the GPmodel.m file to develop GP Model
